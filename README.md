@@ -16,7 +16,7 @@
 
 
 <a target="_blank" href="https://www.linkedin.com/in/lopesgrcconsultant/">
-  <img align="right" src="linkedin.svg" height="25" width="25" />
+  <img align="right" src="linkedin.svg" height="25" width="25" "background-color:white"/>
 </a>
 
 
