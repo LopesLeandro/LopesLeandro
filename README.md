@@ -10,7 +10,7 @@
 </div>
 &nbsp;
 <a href="#">
-  <img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="25" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=LopesLeandro&style=flat-square" height="25" />
 </a>
 
 
