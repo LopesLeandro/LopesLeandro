@@ -24,6 +24,6 @@
 ---
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LopesLeandro&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dark" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopesLeandro&layout=compact&theme=gray&hide_border=true" width="313" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopesLeandro&layout=compact&theme=dark&hide_border=true" width="313" />
 </div>
 </div>
