@@ -6,6 +6,7 @@ Particularlly, it is intense and stimulating preparing this program to protect a
 The opportunity to work in research to implement the best models is the great differential of this phase of my career, provided by Krona. Being a scientist; following this simple set of rules of questioning everything, researching, testing ideas through experiments and observation, developing approved ideas following the evidence wherever it takes us, recording the knowledge gained in advisory materials and disseminating it to any audience interested in listening. It is a wish fulfilled and I am really glad and proud of my pathway, until now.
 </p><p align="justify">
 Excited with new challenges. About the opportunities to improve my performance and career applying technology do audit and control process. To enhanced Corporate Governance system with Data Science & Artificial Intelligence. It's a dream which comes true.</p>
+<div></div>
 <div align="center">
   <a href="https://github.com/LopesLeandro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LopesLeandro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
