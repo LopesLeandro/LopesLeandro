@@ -7,9 +7,9 @@ The opportunity to work in research to implement the best models is the great di
 </p>
 <p style="font-size: 5em"> Excited with new challenges. About the opportunities to improve my performance and career applying technology do audit and control process. It's a dream which comes true. To enhanced Corporate Governance system with Data Science & Artificial Intelligence. </p>
 <div align="center">
-  <a href="https://github.com/lopesleandro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopesleandro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesleandro&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/LopesLeandro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LopesLeandro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopesLeandro&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div></div>
 <div style="display: inline_block"><br>
@@ -30,5 +30,5 @@ The opportunity to work in research to implement the best models is the great di
   <a href = "mailto:ukhacb@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lopesgrcconsultant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/lopesleandro/lopesleandro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LopesLeandro/LopesLeandro/blob/output/github-contribution-grid-snake.svg)
 </div>
