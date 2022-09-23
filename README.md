@@ -18,8 +18,8 @@ The opportunity to work in research to implement the best models is the great di
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Google AppScript" height="35" width="40" src="Icons/google_app_script.png">
-  <img align="center" alt="Power Automate" height="35" width="40" src="PA.png">
-  <img align="center" alt="SoftExpert" height="35" width="40" src="se.png"/>
+  <img align="center" alt="Power Automate" height="35" width="40" src="/Icons/power_automate.png">
+  <img align="center" alt="SoftExpert" height="35" width="40" src="Icons/soft_expert.png"/>
 </div>
   
   ##
