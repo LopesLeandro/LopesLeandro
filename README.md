@@ -8,8 +8,8 @@ The opportunity to work in research to implement the best models is the great di
 <p style="font-size: 5em"> Excited with new challenges. About the opportunities to improve my performance and career applying technology do audit and control process. It's a dream which comes true. To enhanced Corporate Governance system with Data Science & Artificial Intelligence. </p>
 <div align="center">
   <a href="https://github.com/lopesleandro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopesleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesleandro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopesleandro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesleandro&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div></div>
 <div style="display: inline_block"><br>
