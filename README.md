@@ -20,7 +20,8 @@ Excited with new challenges. About the opportunities to improve my performance a
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Google AppScript" height="35" width="40" src="Icons/google_app_script.png">
   <img align="center" alt="Power Automate" height="35" width="40" src="/Icons/power_automate.png">
-  <img align="center" alt="SoftExpert" height="35" width="40" src="Icons/soft_expert.png"/>
+  <img align="center" alt="SoftExpert" height="35" width="40" src="Icons/soft_expert.png">
+  <img align="center" alt="CV" height="35" width="40" src="https://icongr.am/fontawesome/id-card-o.svg?size=128&color=currentColor">
 </div>
   
   ##
