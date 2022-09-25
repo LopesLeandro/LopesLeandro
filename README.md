@@ -21,7 +21,6 @@ Excited with new challenges. About the opportunities to improve my performance a
   <img align="center" alt="Google AppScript" height="35" width="40" src="Icons/google_app_script.png">
   <img align="center" alt="Power Automate" height="35" width="40" src="/Icons/power_automate.png">
   <img align="center" alt="SoftExpert" height="35" width="40" src="Icons/soft_expert.png">
-  <img align="center" alt="CV" height="35" width="40" src="https://icongr.am/fontawesome/id-card-o.svg?size=128&color=currentColor">
 </div>
   
   ##
@@ -31,7 +30,7 @@ Excited with new challenges. About the opportunities to improve my performance a
   <a href="https://www.instagram.com/leandro_._lopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ukhacb@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lopesgrcconsultant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Leandro.js-323330?style=for-the-badge&logo=CV" target="_blank"></a>
+    <a href="https://lopesleandro.github.io/CV2022/" target="_blank"><img src="https://img.shields.io/badge/WEBCV-323330?style=for-the-badge&logo=CV" target="_blank"></a>
 
 
 ![Snake animation](https://github.com/LopesLeandro/LopesLeandro/blob/output/github-contribution-grid-snake.svg)
