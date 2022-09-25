@@ -31,6 +31,8 @@ Excited with new challenges. About the opportunities to improve my performance a
   <a href="https://www.instagram.com/leandro_._lopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ukhacb@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lopesgrcconsultant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=CV" target="_blank"></a>
+
 
 ![Snake animation](https://github.com/LopesLeandro/LopesLeandro/blob/output/github-contribution-grid-snake.svg)
 </div>
