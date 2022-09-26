@@ -28,7 +28,7 @@ Excited with new challenges. About the opportunities to improve my performance a
 <div> 
 
   <a href="https://www.instagram.com/leandro_._lopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ukhacb@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ukhacb@icloud.com"><img src="https://img.shields.io/badge/Mail-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lopesgrcconsultant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://lopesleandro.github.io/CV2022/" target="_blank"><img src="https://img.shields.io/badge/WEBCV-323330?style=for-the-badge&logo=CV" target="_blank"></a>
 
