@@ -25,10 +25,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - uses: Platane/snk/svg-only@v2
-        palette: ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-  
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 outputs: |
       dist/github-snake.svg
