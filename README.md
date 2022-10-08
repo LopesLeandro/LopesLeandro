@@ -29,5 +29,5 @@ Excited with new challenges. About the opportunities to improve my performance a
     <a href="https://lopesleandro.github.io/CV2022/" target="_blank"><img src="https://img.shields.io/badge/WEBCV-323330?style=for-the-badge&logo=CV" target="_blank"></a>
 
 
-![Snake animation](https://github.com/LopesLeandro/LopesLeandro/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/LopesLeandro/LopesLeandro/github-contribution-grid-snake.svg) -->
 </div>
