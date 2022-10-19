@@ -2,6 +2,7 @@
 <p align="justify">
 I am really glad and proud of my pathway, until now, but today, I had a oportunity to improved. I'm excited with new challenges, with the opportunities to enhanced my performance and career applying technology do audit and control process, to hand over value to the company with Data Analytics insights. It's a dream which comes true.
 </p>
+<br>
 
 <div align="center">
   <a href="https://github.com/LopesLeandro">
@@ -26,8 +27,9 @@ I am really glad and proud of my pathway, until now, but today, I had a oportuni
   <a href="https://www.instagram.com/leandro_._lopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ukhacb@icloud.com"><img src="https://img.shields.io/badge/EMAIL-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lopesgrcconsultant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p>
+  If you are analytical and like read all details, access my full CV (:
+  </p>
     <a href="https://lopesleandro.github.io/CV2022/" target="_blank"><img src="https://img.shields.io/badge/WEBCV-323330?style=for-the-badge&logo=CV" target="_blank"></a>
 
-
-<!-- ![Snake animation](https://github.com/LopesLeandro/LopesLeandro/github-contribution-grid-snake.svg) -->
 </div>
