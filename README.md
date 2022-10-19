@@ -1,6 +1,6 @@
 ## Hi, I'm Leandro. 
 <p align="justify">
-Excited with new challenges. About the opportunities to improve my performance and career applying technology do audit and control process. To enhanced Corporate Governance system with Data Science & Artificial Intelligence. It's a dream which comes true.
+Excited with new challenges. About the opportunities to improve my performance and career applying technology do audit and control process, to enhanced Corporate Governance system with Data Analytics. It's a dream which comes true.
 </p>
 
 <div align="center">
