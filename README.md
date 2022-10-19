@@ -21,7 +21,6 @@ I am really glad and proud of my pathway, until now, but today, I had a oportuni
 </div>
   
   ##
- 
 <div> 
 
   <a href="https://www.instagram.com/leandro_._lopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
