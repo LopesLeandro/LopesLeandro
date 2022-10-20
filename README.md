@@ -1,4 +1,5 @@
-## Hi, I'm Leandro, and I 💜 code & data! 
+## Hi, I'm Leandro.
+## I 💜 code & data! 
 <p align="justify">
 I'm really glad and proud of my pathway, until now, but today, I had a oportunity to improved. I'm excited with new challenges, with the opportunities to enhanced my performance and career applying technology do audit and control process, to hand over value to the company with Data Analytics insights. It's a dream which comes true.
 </p>
